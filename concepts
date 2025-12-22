@@ -1,1 +1,5 @@
+1st vulnerabilities in discussion is open redirect when a target visits a website and that website sends their browser to a 
+different URL.
+since this vulnerabilty creats low risk its considered to provide no bounty ,OWASPwhich focuses on the web application security also removed this vuln. 
+from top 10 most risk vulnerabilties in 2017. 
 
