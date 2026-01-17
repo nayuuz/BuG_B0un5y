@@ -3,6 +3,7 @@ Burp suit:- is a tool used to find vulnerabilities in web applications and now i
                                         2) Burp suite professional 
                                         3) Burp Suite Community Edition
   it can be installed in all OS but you gotta make sure that the device has available java run time environment.
+   to check that java run time environment  
 
 
 Sublist3r :- is used for finding subdomain of targeting domain.
